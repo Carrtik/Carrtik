@@ -1,4 +1,4 @@
-# Hi, I'm Carrtik ⚡
+# Hi, I'm Kartik  
 
 **Cybersecurity Researcher | Tool Architect | System Hardening**
 
@@ -18,5 +18,6 @@ I build high-performance security tools, map adversarial infrastructure, and res
 <br/>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carrtik&show_icons=true&theme=tokyonight&hide_border=true" alt="Carrtik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Carrtik&show_icons=true&theme=tokyonight&hide_border=false" width="400" alt="Carrtik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrtik&layout=compact&theme=tokyonight" width="300" alt="Top Languages" />
 </div>
