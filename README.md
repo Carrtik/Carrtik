@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Carrtik ⚡
 
-<!--
-**Carrtik/Carrtik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Researcher | Tool Architect | System Hardening**
 
-Here are some ideas to get you started:
+I build high-performance security tools, map adversarial infrastructure, and research self-healing, quantum-resistant cloud environments. I operate across the entire security lifecycle (Offensive & Defensive) and live in the terminal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  What I'm Building
+- **Post-Quantum Security:** Architecting self-healing cloud environments secured with Hybrid Cryptography (AES + CRYSTALS-Kyber).
+- **Network Intelligence:** Engineering multi-threaded, raw-socket network scanners mapped to MITRE ATT&CK frameworks.
+- **Automated Defenses:** Developing dynamic honeypots utilizing Reinforcement Learning and Docker.
+- **Compliance Auditing:** Building automated Linux privilege escalation and CIS-Benchmark auditing tools.
+
+###  My Arsenal
+- **Languages:** Python, C/C++, Bash
+- **Environment:** Neovim, tmux, Ghostty, Linux
+- **Domains:** Raw Sockets, Containerization (Docker), Cryptography (PQC), Threat Intelligence
+
+<br/>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carrtik&show_icons=true&theme=tokyonight&hide_border=true" alt="Carrtik's GitHub Stats" />
+</div>
