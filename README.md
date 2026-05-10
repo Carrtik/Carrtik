@@ -17,7 +17,6 @@ I build high-performance security tools, map adversarial infrastructure, and res
 
 <br/>
 
-### 📊 GitHub Analytics
-![Kartik's Stats](https://github-readme-stats.vercel.app/api?username=Carrtik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carrtik&layout=compact&theme=tokyonight)
+###  GitHub Analytics
+![Kartik's Stats](https://github-readme-stats.vercel.app/api?username=Carrtik&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carrtik&layout=compact&theme=dark)
