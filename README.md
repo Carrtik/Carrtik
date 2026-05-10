@@ -1,4 +1,4 @@
-# Hi, I'm Kartik  
+# Hi, I'm Kartik Nair
 
 **Cybersecurity Researcher | Tool Architect | System Hardening**
 
