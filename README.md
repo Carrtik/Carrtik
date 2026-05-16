@@ -7,7 +7,7 @@ I find real bugs in production code.
 
 | Advisory | Target | Severity | Status |
 |---|---|---|---|
-| GHSA-6457-j4jq-j7b5 | Spring AI Alibaba | Critical 9.9 | Pending CVE |
+| GHSA-6457-j4jq-j7x5 | Spring AI Alibaba | Critical 9.9 | Pending CVE |
 | GHSA-h2c7-rx9m-j6rr | Spring AI Alibaba | High 8.1 | Pending CVE |
 | GHSA-q83f-9wj5-xrmc | Spring AI Alibaba | High 7.5 | Pending CVE |
 | DJL JAR bypass | deepjavalibrary/djl | Critical 9.8 | Huntr — pending |
@@ -39,7 +39,7 @@ All patches visible at [lore.kernel.org](https://lore.kernel.org/all/?q=Kartik+N
 
 ## Writing
 
-- [My Linux kernel patch got merged by Andrew Morton. Then it got removed. Here's why that's still a win.](https://medium.com/@contact.kartikn/my-linux-kernel-patch-got-merged-by-andrew-morton-then-it-got-removed-heres-why-that-s-still-a-win)
+- [My Linux kernel patch got merged by Andrew Morton. Then it got removed. Here's why that's still a win.](https://medium.com/@contact.kartikn/my-linux-kernel-patch-got-merged-by-andrew-morton-0de1f0c56a2b)
 - [I submitted 4 Linux kernel patches in one night as a final year student](https://medium.com/@contact.kartikn/i-submitted-4-linux-kernel-patches-in-one-night-as-a-final-year-student-188ba790eb17)
 - [I found a bug in software running on millions of routers](https://medium.com/@contact.kartikn/i-found-a-bug-in-software-running-on-millions-of-routers-my-first-cve-6e98f4ebda27)
 
