@@ -25,7 +25,6 @@ I find real bugs in production code.
 | accel/rocket: fix ignored return value | Rockchip NPU Driver | ⏳ Under review |
 | zsmalloc: zero-initialize zspage memory | Memory Management | ⚠️ Merged by Andrew Morton → triggered investigation by Herbert Xu into 842 decompressor |
 
-All patches visible at [lore.kernel.org](https://lore.kernel.org/all/?q=Kartik+Nair)
 
 ## Tools
 
